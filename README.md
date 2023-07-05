@@ -1,8 +1,6 @@
 # Rental-Mobil
 Rental Mobil Berbasis website ini memiliki tampilan yang sederhana dan fitur yang mampu berfungsi dengan baik.
 
-To access admin page, add url /admin. Example http://localhost/rental_eria/admin
-
 ## Tampilan Aplikasi
 ![ss](images/ss1.png)
 ![ss](images/ss2.png)
@@ -15,7 +13,7 @@ To access admin page, add url /admin. Example http://localhost/rental_eria/admin
 |   Level   |     Username      | Password |
 |:---------:|:-----------------:|---------:|
 | Admin     |  admin            | admin    |
-| User      |  yusuf@gmail.com  | yusuf    |
+| User      |    |    |
 
 ## Sistem Requirement
 - Database MySQL
